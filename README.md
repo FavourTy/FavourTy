@@ -4,7 +4,7 @@
 - ✨ Ask me about flutter, dart and time travel
 - 💞️ I’m looking to collaborate on Interesting Arduino and Flutter Projects
 - 📫 How to reach me @favouradetayo03@gmail.com
-- 👀 Fun Fact I love everyone i meet
+- 💥 Fun Fact I love everyone i meet
   
   
 
