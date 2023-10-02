@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FavourTy
+- 👋 Hola, I’m FavourTy
 - 👀 I’m interested in living soft life
 - 🌱 I’m currently learning C++, Flutter, OOP, DSA
 - ✨ Ask me about flutter, dart and time travel
