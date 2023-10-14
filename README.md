@@ -7,8 +7,10 @@
 - 💥 Fun Fact I love everyone i meet
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=favourTy&theme=solarized-dark)](https://git.io/streak-stats)
+ [![An image of @favourty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/favourty)](https://holopin.io/@favourty)
 
 <!---
 FavourTy/FavourTy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
