@@ -1,6 +1,6 @@
 - 👋 Hola, I’m FavourTy
 - 👀 I’m interested in living soft life
-- 🌱 I’m currently learning C++, Flutter, OOP, DSA
+- 🌱 I’m currently learning C++, Flutter, OOP and  DSA
 - ✨ Ask me about flutter, dart and time travel
 - 💞️ I’m looking to collaborate on Interesting Arduino and Flutter Projects
 - 📫 How to reach me @favouradetayo03@gmail.com
