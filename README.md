@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif?cid=ecf05e47wop14z9ec8vkhwz4xxt1f2uyowyvok4ln0rqqfkf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/adeyemi-favour-adetayo-72800222a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
