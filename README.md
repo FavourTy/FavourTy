@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif?cid=ecf05e47wop14z9ec8vkhwz4xxt1f2uyowyvok4ln0rqqfkf&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150"/>
+</div>
+
 - 👋 Hola, I’m FavourTy
 - 👀 I’m interested in living soft life
 - 🌱 I’m currently learning C++, Flutter, OOP and  DSA
