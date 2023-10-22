@@ -40,9 +40,12 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/google/google-plain-wordmark.svg" title="Google" **alt="Google" width="33" height="33"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="30" height="30"/>
 </div>
-
+ 
+ 
+# 🚀 Status:
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=favourTy&theme=solarized-dark)](https://git.io/streak-stats)
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favourTy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
