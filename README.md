@@ -11,7 +11,7 @@
   </a>
 </div>
 <div  align="center">
-  Hola, I'm Favour
+  Hola, I'm FavourTy
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyOW9xaHg2NHZsaWhhZXEwdHl6MWc1NTV4OTZjOG1tNzhrbnJmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </div>
 
