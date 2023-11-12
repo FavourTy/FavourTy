@@ -23,7 +23,7 @@
 
 - 👀 I’m interested in living soft life
 - 🌱 I’m currently learning C++, Flutter, OOP and  DSA
-- ✨ Ask me about flutter, dart and time travel
+- ✨ Ask me about Flutter, Dart and Time travel
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me favouradetayo03@gmail.com
 - 💥 Fun Fact I love everyone i meet
