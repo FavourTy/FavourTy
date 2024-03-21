@@ -26,7 +26,7 @@
 - ✨ Ask me about Flutter, Dart and Time travel
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me favouradetayo03@gmail.com
-- 💥 Fun Fact I love everyone i meet
+- 💥 Fun Fact: I live in a different reality than the rest of you. One where Time Travel is real
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
