@@ -1,32 +1,25 @@
-<div id="header" align="center">
-  Hola,  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyOW9xaHg2NHZsaWhhZXEwdHl6MWc1NTV4OTZjOG1tNzhrbnJmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm FavourTy
- 
-</div>
-<div  align="center">
-  A Flutter Developer
-  </div>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm FavourTy</h1>
+<h3 align="center">A flutter developer</h3>
+<img align='right' alt='avatar' width='400' src="favDash.png">
 
-<div id="badges" >
-  <a href="https://www.linkedin.com/in/adeyemi-favour-adetayo-72800222a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="left"> 
+  <a href="https://twitter.com/favvyhn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/favvyhn?logo=twitter&style=for-the-badge" alt="favvyhn" />
   </a>
-  <a href="https://twitter.com/favvyhn">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/adeyemi-favour-adetayo-72800222a/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin" height='28px'  />
   </a>
-</div>
 
+ # :woman_technologist: About Me
 
-
-<img height="180em" align="right" src="favDash.png"/>
- :woman_technologist: About Me
-
-- 👀 I’m interested in living soft life
-- 🌱 I’m currently learning C++, Flutter, OOP and  DSA
-- ✨ Ask me about Flutter, Dart and Time travel
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me favouradetayo03@gmail.com
-- 💥 Fun Fact: I live in a different reality than the rest of you. One where Time Travel is real
+- 👀 I’m interested in **living soft life**
+- 🌱 I’m currently learning **C++, Flutter, OOP and  DSA**
+- ✨ Ask me about **Flutter, Dart and Time travel**
+- 💞️ I’m looking to collaborate on **Open Source projects**
+- 📫 How to reach me **favouradetayo03@gmail.com**
+- 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
 ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
