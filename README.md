@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm FavourTy</h1>
 <h3 align="center">A flutter developer</h3>
-<img align='right' alt='avatar' width='400' src="favDash.png">
+<img align='right' alt='avatar' width='500' src="favDash.png">
 
 <p align="left"> 
   <a href="https://twitter.com/favvyhn" target="blank">
@@ -13,10 +13,15 @@
  # :woman_technologist: About Me
 
 - 👀 I’m interested in **living soft life**
+  
 - 🌱 I’m currently learning **C++, Flutter, OOP and  DSA**
+  
 - ✨ Ask me about **Flutter, Dart and Time travel**
+  
 - 💞️ I’m looking to collaborate on **Open Source projects**
+  
 - 📫 How to reach me **favouradetayo03@gmail.com**
+  
 - 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
 ---
 
