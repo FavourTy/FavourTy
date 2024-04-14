@@ -1,6 +1,6 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />, I'm FavourTy</h1>
 <h3 align="center">A flutter developer</h3>
-<img align='right' alt='avatar' width='500' src="favDash.png">
+<img align='right' alt='avatar' width='480' src="favDash.png">
 
 <p align="left"> 
   <a href="https://twitter.com/favvyhn" target="blank">
