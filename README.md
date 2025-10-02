@@ -24,7 +24,8 @@
   
 - 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
 ---
-
+[![wakatime](https://wakatime.com/badge/user/522cfa32-e8c1-479c-bdb9-77a83cdcbe8d.svg)](https://wakatime.com/@522cfa32-e8c1-479c-bdb9-77a83cdcbe8d)
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
