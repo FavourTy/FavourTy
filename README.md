@@ -14,9 +14,9 @@
 
 - 👀 I’m interested in **living soft life**
   
-- 🌱 I’m currently learning **C++, Flutter, OOP and  DSA**
+- 🌱 I’m currently learning **Python,DSA, Computer vision and Artificial Inteligence**
   
-- ✨ Ask me about **Flutter, Dart and Time travel**
+- ✨ Ask me about **Flutter, Computer Vision and Time travel**
   
 - 💞️ I’m looking to collaborate on **Open Source projects**
   
