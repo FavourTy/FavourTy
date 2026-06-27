@@ -18,9 +18,11 @@
   
 - ✨ Ask me about **Flutter, Computer Vision and Time travel**
   
-- 💞️ I’m looking to collaborate on **Open Source projects**
+- 💞️ I’m looking to collaborate on **open Source projects**
   
 - 📫 How to reach me **favouradetayo03@gmail.com**
+  
+- 🧠 Take a peek at my [Portfolio](https://favourty.vercel.app/) and see what I've been up to.
   
 - 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
 ---
