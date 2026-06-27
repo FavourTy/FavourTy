@@ -49,7 +49,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=favourTy&show_icons=true&locale=en&theme=onedark" alt="favourTy" />
+  <img align="center" src="https://github-readme-stats-one-rosy-kmavbj2rth.vercel.app/api?username=favourTy&show_icons=true&locale=en&theme=onedark" alt="favourTy" />
 </p>
 
 <p>
