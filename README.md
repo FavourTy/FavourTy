@@ -44,9 +44,18 @@
  
 # 🚀 Status:
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=favourTy&theme=sakura-x)](https://git.io/streak-stats)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favourTy&show_icons=true&locale=en&layout=compact&theme=onedark" alt="favourTy" />
+</p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favourTy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=favourTy&show_icons=true&locale=en&theme=onedark" alt="favourTy" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=favourTy&theme=sakura-x" alt="favourTy" />
+</p>
+
  
  [![An image of @favourty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/favourty)](https://holopin.io/@favourty)
 
