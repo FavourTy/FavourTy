@@ -22,7 +22,7 @@
   
 - 📫 How to reach me **favouradetayo03@gmail.com**
   
-- 🧠 Take a peek at my [Portfolio](https://favourty.vercel.app/) and see what I've been up to.
+- 🧠 Take a look at my [Portfolio](https://favourty.vercel.app/) and see what I've been up to.
   
 - 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
 ---
