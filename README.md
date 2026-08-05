@@ -25,6 +25,8 @@
 - 🧠 Take a look at my [Portfolio](https://favourty.vercel.app/) and see what I've been up to.
   
 - 💥 Fun Fact **I live in a different reality than the rest of you. One where Time Travel is real 🏹**
+
+- 💥 Fun Fact **I LOVE HISTORY🏹**
 ---
 [![wakatime](https://wakatime.com/badge/user/522cfa32-e8c1-479c-bdb9-77a83cdcbe8d.svg)](https://wakatime.com/@522cfa32-e8c1-479c-bdb9-77a83cdcbe8d)
 ---
